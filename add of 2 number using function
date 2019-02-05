@@ -1,0 +1,6 @@
+def add(r,t):
+
+        c=r+t
+        print(c)
+
+add(10,30)
